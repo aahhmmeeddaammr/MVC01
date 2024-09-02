@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+		<link  rel="stylesheet" href="~/Lib/bootstrap/css/bootstrap.css"/>
+</head>
+<body>
+	@* Navbar *@
+   <nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<div class="container-fluid">
+			<a class="navbar-brand" asp-controller="Home" asp-Action="Index">Navbar</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			  <span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+				<li class="nav-item">
+				  <a class="nav-link active" aria-current="page"  asp-controller="Home" asp-Action="Index"  >Home</a>
+				</li>											 
+				<li class="nav-item">							
+				  <a class="nav-link" aria-current="page" asp-controller="Home" asp-Action="AboutUS">About US</a>
+				</li>										
+				<li class="nav-item">							  
+				  <a class="nav-link" aria-current="page" asp-controller="Home" asp-Action="Privacy"  >Privacy</a>
+				</li>								
+				<li class="nav-item">							
+				  <a class="nav-link" aria-current="page" asp-controller="Home" asp-Action="Contact"  >Contact US</a>
+				</li>											  
+				<li class="nav-item">							  
+				  <a class="nav-link" aria-current="page" asp-controller="Account" asp-Action="Login"   >LogIn</a>
+				</li>											  
+				<li class="nav-item">							 
+				  <a class="nav-link" aria-current="page" asp-controller="Account" asp-Action="SignUp"  >SignUp</a>
+				</li>
+			  </ul>
+			</div>
+	  </div>
+	</nav>
+	@* End Navar *@
+    <div>
+        @RenderBody()
+    </div>
+	<footer class=" d-flex justify-content-center fs-4 bg-dark text-white w-100">
+	  <div>
+
+		Copyrights &copy for Ahmed Amr @DateTime.Now.Year
+	  </div>
+</footer>
+<script src="~/Lib/bootstrap/js/bootstrap.bundle.js"></script>
+</body>
+</html>

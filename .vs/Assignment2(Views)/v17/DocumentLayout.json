@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment2(views)\\assignment2(views)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment2(views)\\assignment2(views)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment2(views)\\assignment2(views)\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment2(views)\\assignment2(views)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\assignment2(views)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|c:\\users\\ahmed\\desktop\\fullstack\\asp.net\\7.mvc\\assignment2(views)\\assignment2(views)\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{040A8C32-B0C5-460B-9032-3CDD67B7B78D}|Assignment2(Views)\\Assignment2(Views).csproj|solutionrelative:assignment2(views)\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T19:59:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T19:13:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:40:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:27:57.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:17:45.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:17:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:18:10.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Startup.cs",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Startup.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Startup.cs",
+              "RelativeToolTip": "Assignment2(Views)\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:58:40.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment2(Views)\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:39:59.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:48:02.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Assignment2(Views)\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:47:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:46:34.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Assignment2(Views)\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\7.MVC\\Assignment2(Views)\\Assignment2(Views)\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Assignment2(Views)\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:07:37.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

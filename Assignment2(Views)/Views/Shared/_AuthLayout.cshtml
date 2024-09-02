@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>@ViewBag.Title</title>
+		<link  rel="stylesheet" href="~/Lib/bootstrap/css/bootstrap.css"/>
+
+</head>
+<body>
+	@* Navbar *@
+   <nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<div class="container-fluid">
+			<a class="navbar-brand">Navbar</a>
+		</div>
+	</nav>
+	@* End Navar *@
+	<div>
+		@RenderBody()
+	</div>
+	<footer class=" d-flex justify-content-center fs-4 bg-dark text-white w-100">
+	  <div>
+
+		Copyrights &copy for Ahmed Amr @DateTime.Now.Year
+	  </div>
+</footer>
+<script src="~/Lib/bootstrap/js/bootstrap.bundle.js"></script>
+</body>
+</html>
